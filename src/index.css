@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cyber-bg: #0a0a0a;
+  --color-cyber-panel: #141414;
+  --color-cyber-border: #2e1a0b;
+  --color-cyber-orange: #ff7a1a;
+  --color-cyber-amber: #ffb26b;
+  --color-cyber-text: #f5e6d8;
+}
+
+body {
+  margin: 0;
+  background: #0a0a0a;
+  color: #f5e6d8;
+}
